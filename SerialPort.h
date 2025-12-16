@@ -6,7 +6,7 @@
 #include <windows.h>
 
 //----ChatGPT-Parser----
-// I did not write this code, it was made by ChatGPT
+// I did not write this code, it was made by ChatGPT because another c++ parser library required cmake to build, which I am not using
 
 class SerialPort {
 private:
